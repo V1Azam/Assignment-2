@@ -11,13 +11,15 @@ I have segmented the overall project and assignment as 3 main goals/core values.
 
 1. **Maintain ambition to reach a final product.** This includes not being enclosed in feasibility, rather focusing on solutions to general and future issues and processes.
 
-    This would allow for the oppurtunity to tackle more aspects in the whole process of product creation rather than being road blocked by an early issue.
+    *This would allow for the oppurtunity to tackle more aspects in the whole process of product creation rather than being road blocked by an early issue.*
 
-2. **Investigate the not so computer science aspects of robot creation through its interaction with computer science.** As one of the few students who had selected an engineering module as the optional module for 1st year, I would also keep in mind the engineering physical trials and how it would be solved using the programs we would have to create.
+2. **Investigate the not so computer science aspects of robot creation through its interaction with computer science.** Keeping in mind the engineering physical trials and how it would be solved using the programs we would have to create.
+
+   *As one of the few students who had selected an engineering module as the optional module for 1st year, this would allow me put some of the general knowledge to use.*
 
 3. **Exploration of other projects.** Though not particalry inspired by a certain past project by other people, I have no doubt the problems we will face have been discovered and solved by others before, in similar or completely different projects of their own. 
 
-    I wish to explore and research what could be applicable for our case, as what better solution is there to a problem than a tested solution in which you can gauge success?
+    *I wish to explore and research what could be applicable for our case, as what better solution is there to a problem than a tested solution in which you can gauge success?*
 
 ## Entry Log #1
 Late LOG 22/03/2025 (written 19/03/2025)
@@ -26,7 +28,7 @@ In our initital set up and configuration of the NVIDIA Jetson Nano 2GB for devel
 
 However, we had already encountered an issue where the wifi software seemed unresponsive. We could have spent the rest of the day trying to resolve the connectivity issues (WiFi and interfacing) however opted to work with what we had using Jetson's Headless mode through PuTTy's serial monitor via a HDMI-USB cable.
 
-Despite this setback we were able to look forward with progress coinciding with the arrival of the team purchases, including: 
+Despite this setback we were able to successfully initialise the workspace and look forward with progress coinciding with the arrival of the team purchases, including: 
 
 - A small LiDar sensor
 - A board + cable to convert the lidars pinout to usb
